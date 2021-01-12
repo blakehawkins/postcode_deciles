@@ -1,0 +1,4 @@
+- Data sources in [sources.md](sources.md)
+- Generate from updated sources with `generate.sh`
+- Mapping in `postcode_deciles.csv`
+- Search with `./search.sh SW50BZ`
